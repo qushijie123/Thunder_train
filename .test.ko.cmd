@@ -1,0 +1,1 @@
+cmd_/home/qsj/workspace/xxx/test.ko := ld -r  -m elf_x86_64  --build-id=sha1  -T scripts/module.lds -o /home/qsj/workspace/xxx/test.ko /home/qsj/workspace/xxx/test.o /home/qsj/workspace/xxx/test.mod.o;  true

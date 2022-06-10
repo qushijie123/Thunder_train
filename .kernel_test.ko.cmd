@@ -1,0 +1,1 @@
+cmd_/home/qsj/workspace/test_end/kernel_test.ko := ld -r  -m elf_x86_64  --build-id=sha1  -T scripts/module.lds -o /home/qsj/workspace/test_end/kernel_test.ko /home/qsj/workspace/test_end/kernel_test.o /home/qsj/workspace/test_end/kernel_test.mod.o;  true
